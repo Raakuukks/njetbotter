@@ -1,0 +1,13 @@
+{
+  "name": "njetbotter",
+  "description": "nojetbotter",
+  "version": "1.0.1",
+  "main": "bot-file.js",
+  "scripts": {
+    "start": "node bot-file.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
